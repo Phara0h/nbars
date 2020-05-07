@@ -1,0 +1,26 @@
+{
+  "name": "nbars",
+  "version": "1.0.0",
+  "description": "The tiniest and fastest javascript templating engine inspired by the fully featured Handlebarsjs",
+  "main": "dist.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Phara0h/nbars.git"
+  },
+  "keywords": [
+    "fast",
+    "tiny",
+    "template",
+    "engine",
+    "handlebars"
+  ],
+  "author": "Jt Whissel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Phara0h/nbars/issues"
+  },
+  "homepage": "https://github.com/Phara0h/nbars#readme"
+}
