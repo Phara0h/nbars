@@ -2,7 +2,7 @@
   "name": "nbars",
   "version": "1.0.0",
   "description": "The tiniest and fastest javascript templating engine inspired by the fully featured Handlebarsjs",
-  "main": "dist.js",
+  "main": "dist.mjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
